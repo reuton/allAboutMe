@@ -1,7 +1,7 @@
 #  Информация обо мне 
 
 *Фото*
-
+![MyPhoto](https://github.com/reuton/allAboutMe/blob/main/cat.jpeg)
 
 *Личные данные*
 Имя: Антон
